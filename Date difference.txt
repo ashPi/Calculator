@@ -1,0 +1,67 @@
+Dim date1, date2 As New Date
+        date1 = dateFrom.Value
+        date2 = dateTo.Value
+
+        Dim y, m, w, d As Integer
+        y = Math.Abs(DateDiff(DateInterval.Year, date1, date2))
+        m = Math.Abs(DateDiff(DateInterval.Month, date1, date2))
+        w = Math.Abs(DateDiff(DateInterval.Weekday, date1, date2))
+        d = Math.Abs(DateDiff(DateInterval.Day, date1, date2))
+        differenceD.Text = ""
+        differenceM.Text = ""
+        differenceW.Text = ""
+        differenceY.Text = ""
+        differenceYMWD.Text = ""
+
+
+        differenceY.Text = differenceY.Text & y & " year"
+            If y > 1 Then
+                differenceY.Text &= "s"
+            End If
+      
+        differenceM.Text = differenceM.Text & m & " month"
+            If m > 1 Then
+                differenceM.Text &= "s"
+            End If
+
+        
+        differenceW.Text = differenceW.Text & w & " week"
+            If w > 1 Then
+                differenceW.Text &= "s"
+            End If
+
+       
+        differenceD.Text = differenceD.Text & d & " day"
+            If d > 1 Then
+                differenceD.Text &= "s"
+            End If
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Dim d As Date = dateAddSubtract.Value
+
+
+        If rbAdd.Checked = True Then
+            d = d.AddYears(nudYear.Value)
+            d = d.AddMonths(nudMonth.Value)
+            d = d.AddDays(nudDay.Value)
+            lblAddSubtract.Text = Format(d, "dd MMMM yyyy ã.")
+        End If
+
+        If rbSubtract.Checked = True Then
+          
+            d = d.AddYears(nudYear.Value * -1)
+            d = d.AddMonths(nudMonth.Value * -1)
+            d = d.AddDays(nudDay.Value * -1)
+            lblAddSubtract.Text = Format(d, "dd MMMM yyyy ã.")
+        End If

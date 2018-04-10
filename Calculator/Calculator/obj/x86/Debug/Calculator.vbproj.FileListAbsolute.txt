@@ -1,0 +1,18 @@
+C:\Users\SIlviya\OneDrive\Projects\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\SIlviya\OneDrive\Projects\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\SIlviya\OneDrive\Projects\Calculator\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\SIlviya\OneDrive\Projects\Calculator\Calculator\Calculator\obj\x86\Debug\WindowsApplication1.frmMain.resources
+C:\Users\SIlviya\OneDrive\Projects\Calculator\Calculator\Calculator\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\SIlviya\OneDrive\Projects\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Users\SIlviya\OneDrive\Projects\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\SIlviya\OneDrive\Projects\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.xml
+C:\Users\SIlviya\OneDrive\Projects\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\18\Documents\Silviya Tacheva\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\18\Documents\Silviya Tacheva\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.xml
+C:\Users\18\Documents\Silviya Tacheva\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\18\Documents\Silviya Tacheva\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\18\Documents\Silviya Tacheva\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\18\Documents\Silviya Tacheva\Calculator\Calculator\Calculator\bin\Debug\Calculator.xml
+C:\Users\18\Documents\Silviya Tacheva\Calculator\Calculator\Calculator\obj\x86\Debug\WindowsApplication1.frmMain.resources
+C:\Users\18\Documents\Silviya Tacheva\Calculator\Calculator\Calculator\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\18\Documents\Silviya Tacheva\Calculator\Calculator\Calculator\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache

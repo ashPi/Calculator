@@ -1,0 +1,121 @@
+Degree
+Gardian
+Radian
+
+
+Acres
+Hectares
+Square centimeter
+Square feet
+Square inch
+Square kilometer
+Square meters
+Square mile
+Square millimeter
+Square yard
+
+
+British Thermal Unit
+Calorie
+Electron-Volts
+Foot-Pound
+Joule
+Kilocalorie
+Kilojaule
+
+
+Angstrom
+Centimeters
+Chain
+Fathom
+Feet
+Hand
+Inch
+Kilometers
+Link
+Meter
+Microns
+Mile
+Millimeters
+Nanometer
+Yard
+
+
+
+BTU/minute
+Foot-Pound/minute
+Horsepower
+Kilowatt
+Watt
+
+
+Atmospere
+Bar
+Kilo Pascal
+Millimeter of mercury
+Pascal
+Pound per square inch (PSI)
+
+
+Degrees Celsius
+Degrees Fahrenheit
+Kelvin
+
+
+Day
+Hour
+Microsecond
+Millisecond
+Minute
+Second
+Week
+
+
+Centimeter per second
+Feet per second
+Kilometer per second
+Knots
+Mach (at std. atm)
+Meter per second
+Miles per hour
+
+Cubic centimeter
+Cubic feet
+Cubic inch
+Cubic meter
+Cubic yard
+Fluid ounce (UK)
+Fluid ounce (US)
+Gallon (UK)
+Gallon (US)
+Liter
+Pint (UK)
+Pint (US)
+Quart (UK)
+Quart (US)
+
+
+
+Carat
+Centigram
+Decigram
+Dekagram
+Gram
+Hectogram
+Kilogram
+Long ton
+Milligram
+Ounce
+Pound
+Short ton
+Stone
+Tonne
+
+
+If lblHelp.Visible = True Then
+            lblHelp.Text = 1 / Sum
+            Sum = 1 / Sum
+        Else
+            lbl.Text = 1 / input
+            input = 1 / input
+        End If
